@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "gpheelsbutlocal-00r9.aternos.me:49597",
+    "port": 49597,
     "version": "",
     "try-creative": false
   },
